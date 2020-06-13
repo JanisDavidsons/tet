@@ -4,7 +4,7 @@
 This project is a webpage, which reads XML data from an external source and compares records with the database.
 If new data is found, it gets stored in a database. 
 
-There three options to fetch RSS feed :
+There are three options to fetch RSS feed :
     
     1. In webpage, press "Get data" button
     2. From terminal (whithin project folder) type "PHP artisan currencies:fetch"
